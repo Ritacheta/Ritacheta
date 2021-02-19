@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello there👋</h2>
 
-<p align="center"> I am exploring Computer Science and Engineering(2019-23) at Jadavpur University, kolkata, India. I am a datascience enthusiast and passionate about cloud computing. Along with kaggling, I am working on some undergraduate research work mostly with image and text. Looking forward to learn a lot. :smiling:</p>
+<p align="center"> I am exploring Computer Science and Engineering(2019-23) at Jadavpur University, kolkata, India. I am a datascience enthusiast and passionate about cloud computing. Along with kaggling, I am working on some undergraduate research work mostly with image and text. Looking forward to learn a lot. :smile:</p>
 
 
 ### 🌱 What I’m currently
