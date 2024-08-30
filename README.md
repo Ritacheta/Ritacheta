@@ -4,20 +4,8 @@
 
 <h2 align="center">Hello there👋</h2>
 
-<p align="center"> I am exploring Computer Science and Engineering(2019-23) at Jadavpur University, kolkata, India. I am a datascience enthusiast and passionate about cloud computing. Along with kaggling, I am working on some undergraduate research work mostly with image and text. Looking forward to learn a lot. :smile:</p>
+<p align="center"> I am currently working at Deutsche Bank, Pune as a Technology Analyst. I have completed my Bachelor's in Computer Science and Engineering(2019-23) from Jadavpur University, Kolkata, India. I am a Datascience enthusiast and passionate about cloud computing. Looking forward to learn a lot. :smile:</p>
 
-
-### 🌱 What I’m currently
-
-- Working on some research works on AI/ML.
-- JU-Sense Team Member, for deploying data collection systems and analyszing data for public use (as a part of University Research work)
-- Utilising Kaggle to grow in datascience.
-
-### 👯 Looking to collaborate on:
-
-- Some interesting project on C, C++
-- on advance python applications
-- project on AI/ML
 
 ### 🔧 Skills:
 
